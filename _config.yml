@@ -1,5 +1,10 @@
 title: LNKTR
 description: The Only Link You’ll Ever Need
+url: "https://lnktr.net"
+baseurl: ""
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 google_analytics: G-QFFQNW3HTS
 include:
  - _posts
