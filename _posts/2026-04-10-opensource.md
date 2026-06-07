@@ -5,8 +5,12 @@ bg_img: /assets/images/wallpaper-05.png
 profile_pic: https://avatars.githubusercontent.com/u/1442931?v=4
 intro: 'Use the following links to find my work:'
 links:
-- label: Collection of Projects
-  url: https://www.himpfen.com/opensource/
+- label: Open Source Web Development
+  url: https://www.brandonhimpfen.com/code/
+- label: Open Source Software
+  url: https://www.brandonhimpfen.com/software/
+- label: GitHub Actions & Developer Automation
+  url: https://www.brandonhimpfen.com/github-actions/
 socials:
   enabled: true
   intro: 'Connect with me at:'
