@@ -1,5 +1,5 @@
 ---
-title: Solo Travel Weekly
+title: HTML Template
 layout: profile
 bg_img: /assets/images/wallpaper-04.png
 profile_pic: https://avatars.githubusercontent.com/u/56399610?s=200&v=4
