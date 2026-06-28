@@ -5,7 +5,7 @@ bg_img: https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2029&au
 profile_pic: https://avatars.githubusercontent.com/u/1442931?v=4
 intro: 'Use the following links to find our work:'
 links:
-- label: official Website
+- label: Official Website
   url: https://officeaiplaybook.com/
 - label: Subscribe to our Newsletter
   url: https://www.linkedin.com/newsletters/office-ai-playbook-7467654430134341633/
