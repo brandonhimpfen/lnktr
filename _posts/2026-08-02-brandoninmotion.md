@@ -24,7 +24,7 @@ socials:
 donations:
   enabled: true
   title: Support My Work
-  intro: Help fund open source projects, writing, datasets, and public resources.
+  intro: Enjoying the journey? Your support helps keep new videos coming.
   methods:
     - label: Buy Me a Coffee
       icon: cup-hot
