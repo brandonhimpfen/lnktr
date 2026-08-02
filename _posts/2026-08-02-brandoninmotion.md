@@ -2,7 +2,7 @@
 title: Brandon in Motion
 layout: profile
 bg_img: /assets/images/wallpaper-07.jpg
-profile_pic: https://storage.ghost.io/c/bb/b5/bbb577cc-621d-4b86-946e-5a259ee28fa4/content/images/size/w400/2026/04/Holly-Cow-1421.png
+profile_pic: /assets/images/ytprofilepic.png
 subtitle: Walking tours, scenic routes, public transit journeys and travel videos
 intro: "Use the following links to find my work:"
 
