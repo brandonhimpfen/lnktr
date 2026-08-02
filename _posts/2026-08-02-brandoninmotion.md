@@ -1,7 +1,7 @@
 ---
 title: Brandon in Motion
 layout: profile
-bg_img: /assets/images/wallpaper-05.jpg
+bg_img: /assets/images/wallpaper-05.png
 profile_pic: /assets/images/ytprofilepic.png
 subtitle: Walking tours, scenic routes, public transit journeys and travel videos
 intro: "Use the following links to find my work:"
