@@ -23,6 +23,9 @@ socials:
   - icon: facebook
     url: https://www.facebook.com/thesolotravelsociety/
     label: Facebook
+  - icon: whatsapp
+    url: https://whatsapp.com/channel/0029VbDkKUEKLaHjkS7y711d
+    label: WhatsApp
 ui:
   share_enabled: true
   verified: true
