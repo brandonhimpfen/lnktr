@@ -18,6 +18,9 @@ socials:
   - icon: github
     url: https://github.com/boldoutlook
     label: Github
+  - icon: whatsapp
+    url: https://whatsapp.com/channel/0029Vb8PCLBHLHQXkrSwje1c
+    label: WhatsApp
 ui:
   share_enabled: true
   verified: true
