@@ -1,14 +1,14 @@
 ---
-title: Awesome Learn
+title: CraftNotes
 layout: profile
 bg_img: /assets/images/wallpaper-16.jpg
 profile_pic: https://avatars.githubusercontent.com/u/154399305?s=200&v=4
 intro: 'Use the following links to find our work:'
 links:
 - label: Official Website
-  url: https://www.brandonhimpfen.com/awesome-learn/
+  url: https://www.brandonhimpfen.com/craftnotes/
 - label: GitHub
-  url: https://github.com/brandonhimpfen/awesome-learn
+  url: https://github.com/craftnotes
 socials:
   enabled: true
   intro: 'Connect with us at:'
@@ -17,7 +17,7 @@ socials:
     url: https://awesomelists.substack.com/
     label: Inbox
   - icon: twitter
-    url: https://twitter.com/listsawesome
+    url: https://twitter.com/awelist
     label: Twitter
   - icon: instagram
     url: https://www.instagram.com/brandonhimpfen/
@@ -26,7 +26,7 @@ socials:
     url: https://www.facebook.com/awesomelists
     label: Facebook
   - icon: github
-    url: https://github.com/awesomelistsio
+    url: https://github.com/craftnotes
     label: Github
 ui:
   share_enabled: true
